@@ -41,37 +41,37 @@ I am an user-friendly guide for those who are struggling to create an interestin
 
 ### First, Why Do I need a Good README File? <br> 
 
-> Open source community is growing rapidly. Developers release new open-source projects on GitHub every day. As a result, it’s becoming more and more difficult to get your own project to stand out from the sea of open-source software.
-> A README is like the face of your project. It is the first file a person should read when encountering a source tree, and it should be written as a very brief and giving very basic introduction to the software. <br>
+> Open source community is growing rapidly. Developers release new open-source projects on GitHub every day. As a result, it’s becoming more and more difficult to get your own project to stand out from the sea of open-source software. <br> 
+<p> 
+> A README is like the face of your project. <br>
 
 It should: 
 1. Make your project stand out from others
 2. Brief but detailed
 3. Focus on what your project needss to deliever and how 
  
-
-
-
-
-
 ### So let's get started <br>
-Guide for first time learners trying to upload video onto Github.
-###### How to upload images onto Github?
+> For first time learners trying to make their README file interesting~! 
+#### 1. How to upload images onto Github?
 1. Send the image from your phone to your computer.<br>
 2. Go on the raw file on Github <br>
 3. Select the file image and drag it directly to the raw file on Github <br>
 4. See if it works properly by pressing the preview button (next to the 'edit file' button) <br>
 <strong> SUCCESS! </strong>
  
-###### How to upload videos onto Github?
+#### 2. How to upload videos onto Github?
 1. For videos you need to make it a mp4 file.<br>  
 2. Drag the file onto the raw file on Github <br>
 3. For me, when I dragged the mp4 file directly from my mac to this raw space and when I pressed preview the video was very <strong> brIGHT </strong> <br>
 4. If this is the case for you2, then compress the file and then drag onto the raw space. 
 5. See if it works properly by pressing the preview button (next to the 'edit file' button) <br>
 <strong> SUCCESS! </strong>
-<br>
 
-Hope this helps,
+#### 3. How to format?
+Formatting is an essential part of README. You can learn about how to format your README from https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+#### 4. Try all possibilties! Don't limit yourself on this platform! 
+<br><br>
+Hope this helps,<br>
 A friend. 
 ![hang in there](https://user-images.githubusercontent.com/94369439/142633077-7178f0e6-1533-444c-9278-45e2c71b7fd3.gif)

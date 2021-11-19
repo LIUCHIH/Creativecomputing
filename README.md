@@ -1,4 +1,9 @@
-# A Letter to a Stranger. 💌 
+<h1 align="center">Y1 GCD Unit2- Creative Computing</h1>
+<h3 align="center">Helena Liu</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=liuchih&label=Profile%20views&color=0e75b6&style=flat" alt="liuchih" /> </p> <br>
+
+>A Letter to a Stranger. 💌 
 
 ### Dear Stranger, <br>
 Is this your first time learning about creative computing? For me, my week in creative computing has been a total different experience 
@@ -18,18 +23,17 @@ Hopefully you will enjoy your week, just like I did. I have attached a guide wit
 <br> <br>
 From, <br>
 A friend.
+<br><br><br>
 
-# A Guide to Github, ReadMe. 📕
+# A Basic Guide to Github, ReadMe. 📕
 
-## Introduction: Definitions
-<h5> Here are some of the definitions that are useful in starting off this project. </h5>
-<p> Creative computing: Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. People use computers as aids to creativity and creative-computing topics may reshape the world as we know it. This involves coding, building apps, craft digital experiences, explore machine intelligence and more which are valued by today's businesses with higher demand! <br>
-<p> Open source: Open sourse is a computer software that is released for use by anyone, for any purpose. 
-<p> ReadME file: The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code,game, or it might contain instructions, help, or details about the patches or updates. <br>
-
+What we will cover in this guide:
+1. How to add images.
+2. How to add videos. 
+3. How to format.
  -------------------------------------------------------------------------------------
 ### Hello! <br>
-I am an user-friendly guide for those who are struggling to write a good README file on Github. It'll help you learn how to get started writing helpful and clear documentations and make it accessible to everyone. 
+I am an user-friendly guide for those who are struggling to create an interesting README file on Github. README file is basically a documental file that allows you to write long text, which is boring to read! Here are some tips that can make your README file stand out from the crowd! 
 <br>
 
 ![cute-adorable](https://user-images.githubusercontent.com/94369439/142632896-8dd14d83-854a-498f-b3f3-5021d7867270.gif)
@@ -37,14 +41,18 @@ I am an user-friendly guide for those who are struggling to write a good README 
 
 ### First, Why Do I need a Good README File? <br> 
 
-A README file is a guide that gives users a detailed description of a project that you have pushed to your repository.
+> Open source community is growing rapidly. Developers release new open-source projects on GitHub every day. As a result, it’s becoming more and more difficult to get your own project to stand out from the sea of open-source software.
+> A README is like the face of your project. It is the first file a person should read when encountering a source tree, and it should be written as a very brief and giving very basic introduction to the software. <br>
 
-Perhaps you are wondering why you should spend time writing a good README. Well are some reasons to help convince you that it's a good idea:
-
-A good README helps your projects stand out from a bunch of other projects. It should be as good as the project itself.
-It is the first file a person will see when they encounter your project, so it should be fairly brief but detailed.
-It will help you focus on what your project needs to deliver and how.
+It should: 
+1. Make your project stand out from others
+2. Brief but detailed
+3. Focus on what your project needss to deliever and how 
  
+
+
+
+
 
 ### So let's get started <br>
 Guide for first time learners trying to upload video onto Github.

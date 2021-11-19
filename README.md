@@ -17,33 +17,37 @@ Don't stress! I was just like you, figuring out arduino, tinkercad, and github p
 Hopefully you will enjoy your week, just like I did. I have attached a guide with this letter, hopefully it will support you in some way. <br>
 <br> <br>
 From, <br>
-Helena 
+A friend.
 
-# A Guide. 📕
-Hello, I am a user-friendly guide for those who are first-time learners 
-### Hello!
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
+# A Guide to Github, ReadMe. 📕
 
-Using the metaphor of a sketch, p5.js has a full set of drawing functionality. Howe
+## Introduction: Definitions
+<h5> Here are some of the definitions that are useful in starting off this project. </h5>
+<p> Creative computing: Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. People use computers as aids to creativity and creative-computing topics may reshape the world as we know it. This involves coding, building apps, craft digital experiences, explore machine intelligence and more which are valued by today's businesses with higher demand! <br>
+<p> Open source: Open sourse is a computer software that is released for use by anyone, for any purpose. 
+<p> ReadME file: The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code,game, or it might contain instructions, help, or details about the patches or updates. <br>
 
-’m new to arduino and tinkercad. <strong> Perhaps you are just the same as ME! </strong> <br>
-It is my first time learning about creative computing, and I will use this READ.ME file platform to also help/encourage those who are first-time learners of creative computing, who are also trying to figure out their way around.) <br>
+ -------------------------------------------------------------------------------------
+### Hello! <br>
+I am an user-friendly guide for those who are struggling to write a good README file on Github. It'll help you learn how to get started writing helpful and clear documentations and make it accessible to everyone. 
 <br>
 
 ![cute-adorable](https://user-images.githubusercontent.com/94369439/142632896-8dd14d83-854a-498f-b3f3-5021d7867270.gif)
 
-## Introduction: Definitions
-<h5> Here are some of the definitions that are useful in starting off this project. </h5>
-<p> Creative computing: Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. People use computers as aids to creativity and creative-computing topics may reshape the world as we know it. This involves coding, building apps, craft digital experiences, explore machine intelligence and more which are valued by today's businesses with <strong> higher demand!</strong> </h5>
-<p> Physical computing: Physical computing means interacting with real-world objects by programming them from a computer. Examples includes automatic doors and voice recognition. For this project, Arduino is the platform we use which is an open-source electronics platform based on easy-to-use hardware and software. 
-<p> Open source: Open sourse is a computer software that is released for use by anyone, for any purpose. 
-<p> ReadME file: The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code,game, or it might contain instructions, help, or details about the patches or updates. 
-<p> STEAM: STEAM stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.<br>
-<p> Tinkercad is a free-of-charge, online 3D modeling program that runs in a web browser. Since it became available in 2011 it has become a popular platform for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools 
-<p> Arduino is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
 
- Guide for first time learners trying to upload video onto Github.
+### First, Why Do I need a Good README File? <br> 
 
+A README file is a guide that gives users a detailed description of a project that you have pushed to your repository.
+
+Perhaps you are wondering why you should spend time writing a good README. Well are some reasons to help convince you that it's a good idea:
+
+A good README helps your projects stand out from a bunch of other projects. It should be as good as the project itself.
+It is the first file a person will see when they encounter your project, so it should be fairly brief but detailed.
+It will help you focus on what your project needs to deliver and how.
+ 
+
+### So let's get started <br>
+Guide for first time learners trying to upload video onto Github.
 ###### How to upload images onto Github?
 1. Send the image from your phone to your computer.<br>
 2. Go on the raw file on Github <br>
@@ -61,5 +65,5 @@ It is my first time learning about creative computing, and I will use this READ.
 <br>
 
 Hope this helps,
-Helena 
+A friend. 
 ![hang in there](https://user-images.githubusercontent.com/94369439/142633077-7178f0e6-1533-444c-9278-45e2c71b7fd3.gif)

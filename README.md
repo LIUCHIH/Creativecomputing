@@ -19,59 +19,33 @@ a growing industry > new possibility > why not? <br>
 .<br>
 Now, it's your turn to try out the brief for creative computing. 
 Don't stress! I was just like you, figuring out arduino, tinkercad, and github platform. My advice for you is to have an open mind to play with all possibilities, and you will do just fine.
-Hopefully you will enjoy your week, just like I did. I have attached a guide with this letter, hopefully it will support you in some way. <br>
+Hopefully you will enjoy your week, just like I did. <br>
 <br> <br>
 From, <br>
 A friend.
 <br><br><br>
 
-# A Basic Guide to Github, ReadMe. 📕
+<h2 align="center">🌱 Physical Computing: Practical</h2>
 
-What we will cover in this guide:
-1. How to add images.
-2. How to add videos. 
-3. How to format.
- -------------------------------------------------------------------------------------
-### Hello! <br>
-I am an user-friendly guide for those who are struggling to create an interesting README file on Github. README file is basically a documental file that allows you to write long text, which is boring to read! Here are some tips that can make your README file stand out from the crowd! 
+https://user-images.githubusercontent.com/94369439/142494884-266c370b-1062-48e1-ab64-28a5e6ee8c11.mp4
+
+
+In class, I learned how to to build a circult by watching the tutorial link that was on the moodle page. The attempt was unsuccessful, although we followed the step-to-step guide, the light only flikers once connected. We didn't want to give up that easily and tried looking at the other tutorials to figure out what was wrong with our circult, however, we can't seem to resolve the problem, thus, We accepted that it didn't work and moved on.  Sometimes technology fail and it is common! Don't doubt or be too harsh on yourself! It happens sometimes!
+ 
+--------------------------------------------------------
 <br>
+<h2 align="center"> Playing with Arduino ❤ </h2>
 
-![cute-adorable](https://user-images.githubusercontent.com/94369439/142632896-8dd14d83-854a-498f-b3f3-5021d7867270.gif)
+<img width="903" alt="Screen Shot 2021-11-20 at 5 59 49 PM" src="https://user-images.githubusercontent.com/94369439/142736535-8e48b6c0-308b-4ebb-8668-e3eec2ec2c5f.png">
 
+After the unsuccessful trial, I decided to use my knowledge of building the circult and applying onto Arduino. Out of the projects listed, I was interested in Project 3: Love-o-Meter. I followed the step to step guide on the project guide to set up a "love-o-meter". It measures the body temperature and lights up a string of LEDs to show you how "hot" you are. I find this so cool and enjoyed myself while following the step to step guide to create this circult!
+<p>
+<img width="499" alt="0" src="https://user-images.githubusercontent.com/94369439/142497508-911a6657-9647-4771-8536-ca239ac43c23.png">
 
-### First, Why Do I need a Good README File? <br> 
+<img width="499" alt="3" src="https://user-images.githubusercontent.com/94369439/142497550-35b9de4b-15c4-4c51-a3a9-90dcb2a558a8.png">
 
-> Open source community is growing rapidly. Developers release new open-source projects on GitHub every day. As a result, it’s becoming more and more difficult to get your own project to stand out from the sea of open-source software. <br> 
-<p> 
-> A README is like the face of your project. <br>
-
-It should: 
-1. Make your project stand out from others
-2. Brief but detailed
-3. Focus on what your project needss to deliever and how 
- 
-### So let's get started <br>
-> For first time learners trying to make their README file interesting~! 
-#### 1. How to upload images onto Github?
-1. Send the image from your phone to your computer.<br>
-2. Go on the raw file on Github <br>
-3. Select the file image and drag it directly to the raw file on Github <br>
-4. See if it works properly by pressing the preview button (next to the 'edit file' button) <br>
-<strong> SUCCESS! </strong>
- 
-#### 2. How to upload videos onto Github?
-1. For videos you need to make it a mp4 file.<br>  
-2. Drag the file onto the raw file on Github <br>
-3. For me, when I dragged the mp4 file directly from my mac to this raw space and when I pressed preview the video was very <strong> brIGHT </strong> <br>
-4. If this is the case for you2, then compress the file and then drag onto the raw space. 
-5. See if it works properly by pressing the preview button (next to the 'edit file' button) <br>
-<strong> SUCCESS! </strong>
-
-#### 3. How to format?
-Formatting is an essential part of README. You can learn about how to format your README from https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-#### 4. Try all possibilties! Don't limit yourself on this platform! 
-<br><br>
-Hope this helps,<br>
-A friend. 
+--------------------------------------------------------
+<br>
+<h2 align="center"> Reflection </h2>
+I initially thought this week we would be learning about coding, and was overwhelmed just by the term 'creative computing.' I didn't know exactly what we were going to do which made me anxious and excited at the same time. Anxious, because I have yet learned anything about it so it is out of my confort zone to touch this field, yet....excited, because I know it is a growing industry that continues to develop so I have always wanted to try it and learn more about it. I approached the brief with an open mind, I started by experimenting with Arduino by doing some of the task, and later on with Tinkercad. I didn't have a set objective at the start of the week, and was not too stressed to create a set outcome which made the week enjoyable while discovering more creative computing while learning and doing. It has shown me a new pathway of creating which could be used in future projects, and I would like to continue to discover and play.
 ![hang in there](https://user-images.githubusercontent.com/94369439/142633077-7178f0e6-1533-444c-9278-45e2c71b7fd3.gif)

@@ -48,11 +48,12 @@ After the unsuccessful trial, I decided to use my knowledge of building the circ
 <br>
 <h2 align="center"> My love for Scratch ❤  </h2>
 
-![scratch1](https://user-images.githubusercontent.com/94369439/142775224-8e38c1e1-429b-4634-8294-fcbec5840499.gif)
+![scratch1](https://user-images.githubusercontent.com/94369439/142775224-8e38c1e1-429b-4634-8294-fcbec5840499.gif)"  
 (A gif to commemorate scratch. It was so popular for a period of time, and I spend a lot of time using the program to create projects.) 
 
 During this week I played with Arduino, which is a prototyping platform that allows me to create interactive electronic objects. This made me remember the times when I used Scratch to create projects using simple coding language. Thus, I thought it might be sweet to create a simple gif with 3 moving images to commemorate the program that I loved dearly. 
 
+--------------------------------------------------------
 <br>
 
 
@@ -65,16 +66,21 @@ I enjoyed my creative computing week. Although I have played with circults befor
 
 <p align="right">during the week, without giving up on myself.</p>  
 
+-------------------------------------------------------------
+<br>
 <h2 align="center"> Research </h2> <br>
 
-<img width="214" alt="1" src="https://user-images.githubusercontent.com/94471736/142250326-47e925f5-e54b-4b22-a803-554139a10f6e.png">
-<strong>Liǎn (脸), Jann Choy </strong>
+<img width="500" alt="1" src="https://user-images.githubusercontent.com/94471736/142250326-47e925f5-e54b-4b22-a803-554139a10f6e.png">
+<p><strong>Liǎn (脸), Jann Choy </strong>
 . <br>
-is an experimental mask that explores the relationship between our online personas and offline self. It responds to one's real time online emotions.
-<br>
-<img width="847" alt="Screen Shot 2021-11-21 at 9 29 11 PM" src="https://user-images.githubusercontent.com/94369439/142779566-d8e722ce-7375-48ac-8036-0d56ae8bc5a5.png"> <br>
-<strong>Touchy-Feely Tech</strong>
+is an experimental mask that explores the relationship between our online personas and offline self. It responds to one's real time online emotions. It is heavily inspired by the Chinese face changing opera art 变脸 (biàn liǎn) and online avatars. 变脸 translates to face changing. The performer changes their face to signify a shift in emotion. This performance parallels our online behaviours; we wear many faces online and are able to change them at any moment.
+<br><br>
+<img width="500" alt="Screen Shot 2021-11-21 at 9 29 11 PM" src="https://user-images.githubusercontent.com/94369439/142779566-d8e722ce-7375-48ac-8036-0d56ae8bc5a5.png"> 
+<p><strong>Touchy-Feely Tech</strong> . <br>
+ 
 
+---------------------------------------------------------------
+<br>
   
  
 

@@ -39,13 +39,22 @@ In class, I learned how to to build a circult by watching the tutorial link that
 <img width="903" alt="Screen Shot 2021-11-20 at 5 59 49 PM" src="https://user-images.githubusercontent.com/94369439/142736535-8e48b6c0-308b-4ebb-8668-e3eec2ec2c5f.png">
 
 After the unsuccessful trial, I decided to use my knowledge of building the circult and applying onto Arduino. Out of the projects listed, I was interested in Project 3: Love-o-Meter. I followed the step to step guide on the project guide to set up a "love-o-meter". It measures the body temperature and lights up a string of LEDs to show you how "hot" you are. I find this so cool and enjoyed myself while following the step to step guide to create this circult!
-<p>
-<img width="499" alt="0" src="https://user-images.githubusercontent.com/94369439/142497508-911a6657-9647-4771-8536-ca239ac43c23.png">
-
-<img width="499" alt="3" src="https://user-images.githubusercontent.com/94369439/142497550-35b9de4b-15c4-4c51-a3a9-90dcb2a558a8.png">
+<p><br>
+     
+>![LOVE-O-METER](https://user-images.githubusercontent.com/94369439/142774916-a9fb2814-b258-4cbb-a925-e1d4f8e5ebd0.gif)
+(A gif created to showcase the process of the "Love-0-meter" working)
 
 --------------------------------------------------------
 <br>
+<h2 align="center"> My love for Scratch ❤  </h2>
+
+![scratch1](https://user-images.githubusercontent.com/94369439/142775196-43945073-4f62-4320-8ad7-56577bbd8148.gif)
+
+
+<br>
+
+
 <h2 align="center"> Reflection </h2>
 I initially thought this week we would be learning about coding, and was overwhelmed just by the term 'creative computing.' I didn't know exactly what we were going to do which made me anxious and excited at the same time. Anxious, because I have yet learned anything about it so it is out of my confort zone to touch this field, yet....excited, because I know it is a growing industry that continues to develop so I have always wanted to try it and learn more about it. I approached the brief with an open mind, I started by experimenting with Arduino by doing some of the task, and later on with Tinkercad. I didn't have a set objective at the start of the week, and was not too stressed to create a set outcome which made the week enjoyable while discovering more creative computing while learning and doing. It has shown me a new pathway of creating which could be used in future projects, and I would like to continue to discover and play.
-![hang in there](https://user-images.githubusercontent.com/94369439/142633077-7178f0e6-1533-444c-9278-45e2c71b7fd3.gif)
+
+![hang in there](https://user-images.githubusercontent.com/94369439/142774998-72fb2338-2944-456e-b27d-2fd11639c348.gif)

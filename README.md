@@ -48,8 +48,10 @@ After the unsuccessful trial, I decided to use my knowledge of building the circ
 <br>
 <h2 align="center"> My love for Scratch ❤  </h2>
 
-![scratch1](https://user-images.githubusercontent.com/94369439/142775196-43945073-4f62-4320-8ad7-56577bbd8148.gif)
+![scratch1](https://user-images.githubusercontent.com/94369439/142775224-8e38c1e1-429b-4634-8294-fcbec5840499.gif)
+(A gif to commemorate scratch. It was so popular for a period of time, and I spend a lot of time using the program to create projects.) 
 
+During this week I played with Arduino, which is a prototyping platform that allows me to create interactive electronic objects. This made me remember the times when I used Scratch to create projects using simple coding language. Thus, I thought it might be sweet to create a simple gif with 3 moving images to commemorate the program that I loved dearly. 
 
 <br>
 

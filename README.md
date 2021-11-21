@@ -57,8 +57,27 @@ During this week I played with Arduino, which is a prototyping platform that all
 
 
 <h2 align="center"> Reflection </h2>
-I enjoyed my creative computing week. Although I have played with circults before in GCSE Physics, it was a while back, thus most of the things I forgot. It was diffcult at first playing with the circults in class, our group didn't figure out how to make the circult work which was stressful. But later on, using Arduino, I tried out some of the lessons and did one of the project "Love-o-meter" which was simple by following the step-to-step guide. I would like to continue playing with Arduino if possible in the future to try out more possibilities with the circult and incorporate this learning to my future projects. I had a go creating gifs and using simple markdown to create this README file. I just have to tell myself to 
+I enjoyed my creative computing week. Although I have played with circults before in GCSE Physics, it was a while back, thus most of the things I forgot. It was diffcult at first playing with the circults in class, our group didn't figure out how to make the circult work which was stressful. But later on, using Arduino, I tried out some of the lessons and did one of the project "Love-o-meter" which was simple by following the step-to-step guide. I would like to continue playing with Arduino if possible in the future to try out more possibilities with the circult and incorporate this learning to my future projects. I had a go creating gifs and using simple markdown to create this README file. I just have to tell myself to ...
+<br>
+
 
 ![hang in there](https://user-images.githubusercontent.com/94369439/142774998-72fb2338-2944-456e-b27d-2fd11639c348.gif)
 
-< "right" during the week, without giving up on myself. 
+<p align="right">during the week, without giving up on myself.</p>  
+
+<h2 align="center"> Research </h2> <br>
+
+<img width="214" alt="1" src="https://user-images.githubusercontent.com/94471736/142250326-47e925f5-e54b-4b22-a803-554139a10f6e.png">
+<strong>Liǎn (脸), Jann Choy </strong>
+. <br>
+is an experimental mask that explores the relationship between our online personas and offline self. It responds to one's real time online emotions.
+<br>
+<img width="847" alt="Screen Shot 2021-11-21 at 9 29 11 PM" src="https://user-images.githubusercontent.com/94369439/142779566-d8e722ce-7375-48ac-8036-0d56ae8bc5a5.png"> <br>
+<strong>Touchy-Feely Tech</strong>
+
+  
+ 
+
+    
+  
+

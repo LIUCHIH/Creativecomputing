@@ -75,10 +75,6 @@ I enjoyed my creative computing week. Although I have played with circults befor
 . <br>
 is an experimental mask that explores the relationship between our online personas and offline self. It responds to one's real time online emotions. It is heavily inspired by the Chinese face changing opera art 变脸 (biàn liǎn) and online avatars. 变脸 translates to face changing. The performer changes their face to signify a shift in emotion. This performance parallels our online behaviours; we wear many faces online and are able to change them at any moment.
 <br><br>
-<img width="500" alt="Screen Shot 2021-11-21 at 9 29 11 PM" src="https://user-images.githubusercontent.com/94369439/142779566-d8e722ce-7375-48ac-8036-0d56ae8bc5a5.png"> 
-<p><strong>Touchy-Feely Tech</strong> . <br>
- 
-
 ---------------------------------------------------------------
 <br>
   
